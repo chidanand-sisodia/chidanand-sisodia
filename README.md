@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science And Artificial Intellegence
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Scientist
-- 📫 How to reach me ...
+- 📫 How to reach me <chidanandrajput@gmail.com> 
 
 <!---
 chidanand-sisodia/chidanand-sisodia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
