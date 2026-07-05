@@ -6,7 +6,7 @@
 
 Building scalable web applications, cloud-native systems, browser automation platforms, and developer tools.
 
-[Portfolio](#) • [LinkedIn](https://linkedin.com/in/chidanand) • [Email](mailto:chidanandrajput@gmail.com)
+[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/chidanand-sisodia-9576381b4) • [Email](mailto:chidanandrajput@gmail.com)
 
 </div>
 
@@ -81,37 +81,13 @@ My work spans full-stack development, browser automation, event-driven architect
 
 ---
 
-## 💼 Featured Projects
-
-### 🚀 AutoTester.ai
-
-AI-powered no-code web testing platform.
-
-**Highlights**
-
-* AI-generated test cases
-* Browser automation
-* Cloud execution
-* AWS Lambda
-* Event-driven architecture
-* Playwright
-* Real-time reporting
-
----
-
-### 🤖 AI Assistant Platform
-
-Enterprise AI assistant capable of integrating with browser automation, external tools, and 1500+ applications through modern integrations.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chidanand-sisodia&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chidanand-sisodia&theme=github-dark&hide_border=true" />
 
 </p>
 
