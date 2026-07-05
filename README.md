@@ -111,7 +111,7 @@ AI Integrations ███████████░░░░ 80%
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/chidanand
+* 💼 LinkedIn: https://www.linkedin.com/in/chidanand-sisodia-9576381b4
 * 📧 Email: [chidanandrajput@gmail.com](mailto:chidanandrajput@gmail.com)
 
 ---
